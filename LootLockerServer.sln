@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36429.23 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LootLockerServer", "LootLockerServer\LootLockerServer.csproj", "{3641259F-DFCE-4061-8706-A1075F63DBBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3641259F-DFCE-4061-8706-A1075F63DBBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3641259F-DFCE-4061-8706-A1075F63DBBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3641259F-DFCE-4061-8706-A1075F63DBBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3641259F-DFCE-4061-8706-A1075F63DBBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FFCD630-DADB-47C7-8EB7-795509503D1E}
+	EndGlobalSection
+EndGlobal
