@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LootLockerServer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb1d5ed71edd4f6e8f23abecad7abeaddfe9a927")]
 [assembly: System.Reflection.AssemblyProductAttribute("LootLockerServer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LootLockerServer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
